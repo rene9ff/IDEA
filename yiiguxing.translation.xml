@@ -1,0 +1,24 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Manager" />
+      <item value="title" />
+      <item value="grade" />
+      <item value="course" />
+      <item value="area" />
+      <item value="perimeter" />
+      <item value="whatever" />
+      <item value="get suffix" />
+      <item value="三星" />
+      <item value="Traceback (most recent call last): File &quot;C:/Python/ExBook/Day01-15/code/Day07/arm.py&quot;, line 124, in &lt;module&gt; new_tuple = tuple(new_list) TypeError: 'tuple' object is not callable" />
+      <item value="fruits" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="FRENCH" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
